@@ -1,6 +1,6 @@
 ### Hello everyone 👋
 
-#### A brief intro :P
+#### A brief intro 🤓
 
 - A Full Stack dev in love with the JavaScript ecosystem who enjoys understanding and implementing service in the Cloud ☁️ .
 
